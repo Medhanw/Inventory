@@ -1,2 +1,2 @@
-# Inventory
-Android Inventory App
+# Inventory-App
+A basic inventory application using database.
